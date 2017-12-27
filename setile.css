@@ -1,0 +1,19 @@
+h1 {
+  text-align:center;
+}
+nav {
+  border-right:1px solid gray;
+  width:200px;
+  height:700px;
+  float:left;
+}
+article{
+  float:left;
+  padding:20px;
+}
+header{
+  border-bottom:1px solid gray;  padding:20px;
+}
+nav ol{
+  list-style:none;
+}
